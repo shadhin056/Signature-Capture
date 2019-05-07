@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SignatureCapture</string>
+    <string name="clear_pad">Clear</string>
+    <string name="save_signature">Save</string>
+    <string name="agreement">Agreement</string>
+    <string name="agreement2">Agreement2</string>
+</resources>
